@@ -1,0 +1,27 @@
+1. Literals
+코드 내에서 의미가 변하지 않고 있는 그대로 사용되는 값.
+let x = 7 (숫자 리터럴: 7)
+let x = 5 + 7 (숫자 리터럴: 5와 7)
+let x2 = x > 7 (숫자 리터럴: 7)
+
+1-1. 리터럴 종류
+Integer Literals, Floating-point Literals, String Literals, Boolean Literals, nil Literals
+
+2. Identifier(식별자)
+코드에 포함된 요소를 구분. 코드에서 이름으로 사용되는 것.
+식별자 이름은 숫자로 시작할 수 없다.
+대소문자를 엄격하게 구분한다.
+let x = 7 (식별자 : x)
+let number = 1
+let Number = 2
+let _Number = 3
+
+3. Keyword(예약어)
+let x = 7 (키워드: let)
+
+3-1. 키워드의 종류
+식별자 이름으로 사용할 수 없다.
+func, let, var….
+
+
+
